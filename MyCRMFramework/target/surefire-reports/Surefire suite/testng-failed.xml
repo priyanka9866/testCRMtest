@@ -5,11 +5,9 @@
     <classes>
       <class name="com.crm.orgTest.OrgTest">
         <methods>
-          <include name="createOrgWithIndustryTest"/>
           <include name="configBeforeClass"/>
           <include name="configAM"/>
           <include name="configBM"/>
-          <include name="createOrgTest"/>
           <include name="configAC"/>
           <include name="createOrgWithPhoneNumberTest"/>
         </methods>
